@@ -1,3 +1,29 @@
+# /* Kattis: consecutivesums
+#  *
+#  * Topic: Number Theory
+#  *
+#  * Level: challenging
+#  *
+#  * Brief problem description:
+#  *
+#  *   Given a number, find the consecutive serie that sum to the number, output the ans with the least number
+#  *
+#  * Solution Summary:
+#  *
+#  *   Int Arithmetic
+#  *
+#  * Used Resources:
+#  *
+#  *
+#  *
+#  * I hereby certify that I have produced the following solution myself
+#  * using only the resources listed above in accordance with the CMPUT
+#  * 403 collaboration policy.
+#  *
+#  *
+#  * Hung Nguyen
+#  */
+
 def isInt(a):
     return int(a) == a
 

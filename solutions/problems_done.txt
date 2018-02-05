@@ -30,13 +30,13 @@ uva_11955:  NO
 # Combinatorics:
 uva_11330:  NO
 uva_12492:  NO
-<Extra1>:   NO
+kattis_sequences:   YES
 <Extra2>:   NO
 
 # Number Theory:
 uva_374:    NO
 uva_11327:  NO
-<Extra1>:   NO
+kattis_digitsum:   YES
 <Extra2>:   NO
 
 # Backtracking:
@@ -54,7 +54,7 @@ uva_10672:  NO
 # Graph Algorithms:
 uva_869:    NO
 uva_10034:  NO
-<Extra1>:   NO
+kattis_10kindsofpeople:   YES
 <Extra2>:   NO
 
 # Dynamic Programming:

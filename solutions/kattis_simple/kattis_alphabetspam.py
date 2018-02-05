@@ -1,3 +1,29 @@
+# /* Kattis: alphabetspam
+#  *
+#  * Topic: others
+#  *
+#  * Level: easy
+#  *
+#  * Brief problem description:
+#  *
+#  *   count characters in a string
+#  *
+#  * Solution Summary:
+#  *
+#  *   counting
+#  *
+#  * Used Resources:
+#  *
+#  *
+#  *
+#  * I hereby certify that I have produced the following solution myself
+#  * using only the resources listed above in accordance with the CMPUT
+#  * 403 collaboration policy.
+#  *
+#  *
+#  * Hung Nguyen
+#  */
+
 import string
 
 ascii_lowercase = list(string.ascii_lowercase)

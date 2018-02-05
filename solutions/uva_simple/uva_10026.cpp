@@ -1,3 +1,29 @@
+/* UVa problem: 10026
+ *
+ * Topic: Data structure
+ *
+ * Level: simple
+ *
+ * Brief problem description:
+ *
+ *  Minimize the penalty based on the penalty per day and how many days to finish the task.
+ *
+ * Solution Summary:
+ *
+ *   sorting
+ *
+ * Used Resources:
+ *
+ *
+ *
+ * I hereby certify that I have produced the following solution myself
+ * using only the resources listed above in accordance with the CMPUT
+ * 403 collaboration policy.
+ *
+ *
+ * Hung Nguyen
+ */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

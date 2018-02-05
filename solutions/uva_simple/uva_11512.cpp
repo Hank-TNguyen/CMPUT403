@@ -1,5 +1,28 @@
-// https://www.geeksforgeeks.org/suffix-tree-application-3-longest-repeated-substring/
-// The C implementation of suffix tree was copied from the above link
+/* UVa problem: 11512
+ *
+ * Topic: Data structure
+ *
+ * Level: simple
+ *
+ * Brief problem description:
+ *
+ *    Find the longest repetition in a given string
+ *
+ * Solution Summary:
+ *
+ *    Longest repeated string
+ *
+ * Used Resources:
+ *
+ *   https://www.geeksforgeeks.org/suffix-tree-application-3-longest-repeated-substring/
+ *
+ * I hereby certify that I have produced the following solution myself
+ * using only the resources listed above in accordance with the CMPUT
+ * 403 collaboration policy.
+ *
+ *
+ * Hung Nguyen
+ */
 
 #include <stdio.h>
 #include <string.h>

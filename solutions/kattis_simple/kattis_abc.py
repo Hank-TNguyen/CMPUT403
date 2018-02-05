@@ -1,3 +1,29 @@
+# /* Kattis: abc
+#  *
+#  * Topic: others
+#  *
+#  * Level: easy
+#  *
+#  * Brief problem description:
+#  *
+#  *   ordering number according to a given order
+#  *
+#  * Solution Summary:
+#  *
+#  *   basic io
+#  *
+#  * Used Resources:
+#  *
+#  *
+#  *
+#  * I hereby certify that I have produced the following solution myself
+#  * using only the resources listed above in accordance with the CMPUT
+#  * 403 collaboration policy.
+#  *
+#  *
+#  * Hung Nguyen
+#  */
+
 line1 = input()
 
 line1 = line1.split(" ")

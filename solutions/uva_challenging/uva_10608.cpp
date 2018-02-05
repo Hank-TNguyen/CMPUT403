@@ -1,9 +1,33 @@
+/* UVa problem: 10608
+ *
+ * Topic: Data structure
+ *
+ * Level: challenging
+ *
+ * Brief problem description:
+ *
+ *   Given a graph, find the largest connected components
+ *
+ * Solution Summary:
+ *
+ *   Graph - connected components
+ *
+ * Used Resources:
+ *
+ *   https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+ *
+ * I hereby certify that I have produced the following solution myself
+ * using only the resources listed above in accordance with the CMPUT
+ * 403 collaboration policy.
+ *
+ *
+ * Hung Nguyen
+ */
+
+
 #include <iostream>
 #include <list>
 using namespace std;
-
-// https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
-// Graph and connectedComponents implementation
 
 class Graph {
     // No. of vertices
